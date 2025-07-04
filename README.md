@@ -45,7 +45,7 @@ With features like secure user authentication, image uploads, reviews, interacti
 - Express.js
 
 **Database**  
-- MongoDB (Mongoose ODM)
+- MongoDB 
 
 **Authentication**  
 - Passport.js (Local Strategy)  
