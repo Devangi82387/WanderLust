@@ -1,11 +1,11 @@
-# 🌍 WanderLust – Explore, List, and Discover Destinations
+#  WanderLust – Explore, List, and Discover Destinations
 
 **WanderLust** is a full-stack travel platform inspired by Airbnb that allows users to explore, share, and manage their favorite travel destinations.  
 With features like secure user authentication, image uploads, reviews, interactive maps, and seamless CRUD operations, WanderLust offers a smooth and engaging experience for travelers and hosts alike.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Listings Management**  
   Users can create, edit, and delete property or travel destination listings with images and details.
@@ -34,7 +34,7 @@ With features like secure user authentication, image uploads, reviews, interacti
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**  
 - EJS (Embedded JavaScript Templates)  
