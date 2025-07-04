@@ -1,19 +1,16 @@
-# Wanderlust
+WanderLust – Explore, List, and Discover Destinations
+WanderLust is a full-stack travel platform inspired by Airbnb that allows users to explore, share, and manage their favorite travel destinations. With features like secure user authentication, image uploads, reviews, interactive maps, and seamless CRUD operations, WanderLust offers a smooth and engaging experience for travelers and hosts alike.
 
-Key Features
+Key Features:
 -Listings: Create, edit, and delete your listings.
 -Reviews: Leave reviews for your favourite destinations.
 -Search and Filter: Easily find listings based on your preferences.
 -User Authentication: Secure sign-up, login, and logout functionality.
 
-Technologies Used:
--Node.js
--Express.js
--MongoDB
--Ejs
--Multer for image upload
--Cloudinary for image storage
--Passport.js for authentication
--Bootstrap for a sleek and responsive design
--Mapbox for interactive maps
--Error handling for a seamless user experience
+🛠️ Tech Stack
+Frontend - EJS (Embedded JavaScript Templates), Bootstrap
+Backend - 	Node.js, Express.js
+Database -	MongoDB (Mongoose ODM)
+Authentication - Passport.js (Local Strategy), Express-Session
+Image Handling - Multer (for upload), Cloudinary (for storage)
+Maps & Location -	Mapbox API
