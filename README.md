@@ -60,7 +60,7 @@ With features like secure user authentication, image uploads, reviews, interacti
 
 ---
 
-## 📦 Setup Instructions
+##  Setup Instructions
 
 1. **Clone the Repository**
    ```bash
