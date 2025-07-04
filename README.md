@@ -7,17 +7,30 @@ With features like secure user authentication, image uploads, reviews, interacti
 
 ## 🚀 Key Features
 
-- **Listings**  
-  Create, edit, and delete your listings with image and location support.
+- **Listings Management**  
+  Users can create, edit, and delete property or travel destination listings with images and details.
 
-- **Reviews**  
-  Leave reviews for your favourite destinations and view reviews from others.
+- **Search & Filter**  
+  Easily search listings based on user preferences and filter results dynamically.
 
-- **Search and Filter**  
-  Easily find listings based on your preferences like price, location, and date.
+- **Reviews System**  
+  Share your experience by leaving reviews on your favorite destinations.
 
 - **User Authentication**  
-  Secure sign-up, login, and logout functionality using Passport.js and sessions.
+  Secure sign-up, login, and logout using Passport.js and session management.
+
+- **Interactive Maps**  
+  Integrated with Mapbox API to display geolocated listings.
+
+- **Image Upload & Storage**  
+  Upload images using Multer and store them securely with Cloudinary.
+
+- **MVC Architecture**  
+  Clean, modular codebase following the Model-View-Controller pattern.
+
+- **Robust Error Handling**  
+  Custom error pages and friendly messages ensure a smooth user experience.
+
 
 ---
 
