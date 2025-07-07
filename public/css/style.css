@@ -91,3 +91,8 @@ body{
   height: 400px;
   object-fit: cover;
 }
+
+/* Map */
+#map {height: 400px;
+width: 80vh;
+}

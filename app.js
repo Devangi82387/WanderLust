@@ -89,9 +89,9 @@ app.use("/", userRouter);
 
 
 
-app.get("/", (req, res)=>{
-    console.log("hi root");
-});
+// app.get("/", (req, res)=>{
+//     console.log("hi root");
+// });
 
 app.use((req, res,next)=>{
     next(new ExpressError(404, "Page not found"));
